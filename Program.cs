@@ -58,6 +58,8 @@ namespace Trabajo_Práctico_.net
                 numero2 = aux;
             }
 
+            //pongo un comentario para ver qué tal
+
           //Se muestran por consola los numeros ingresados ordenados de mayor a menor
           Console.WriteLine("Numero ingresados ordenados de mayor a menor {0} {1} {2}", numero1, numero2, numero3);
         
